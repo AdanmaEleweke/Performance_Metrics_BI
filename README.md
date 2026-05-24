@@ -12,9 +12,9 @@ Quarter/Month Filter: Enables filtering of data by time period (Q1–Q4) for com
 
 Performance Cards: Displays individual scores for each metric:
 
-GitHub Score
-Jira Score
-Attendance
+GitHub Score,
+Jira Score,
+Attendance,
 Confluence Score
 
 Navigation Tabs: Provides access to detailed pages for each metric category — Overview, Confluence, Jira, GitHub, Attendance, and Processes.
